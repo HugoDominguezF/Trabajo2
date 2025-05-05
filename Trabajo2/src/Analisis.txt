@@ -1,0 +1,37 @@
+class Vehiculo
+
+	Constructor:
+
+		String martricula
+		String marca
+		String modelo
+		boolean alquilado
+
+	Excepcion matricula null o vacia
+
+	toString ---> 1234ABC Opel Corsa Disponible -- 
+	--> matricula + marca + modelo + precio + Disponible/No disponible
+
+	equals ---> matricula == matricula2
+
+	compareTo --> marca , si no --> modelo
+
+
+
+Fichero.txt
+	
+	orden --->  matricula, marca, modelo,  alquilado
+	
+Class Crud
+
+ 	añadirCoche()
+ 	buscarCoche()
+ 	listarCoche()
+ 	alquilarCoche()
+ 	devolverCoche()
+ 	guardar()
+ 
+	
+	
+	
+	
